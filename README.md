@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javad-ghasemi&label=Profile%20views&color=0e75b6&style=flat" alt="javad-ghasemi" /> </p>
 
-- 👯 I’m looking to collaborate on **projects to tackle real-world challenges.**
+- I’m looking to collaborate on **projects to tackle real-world challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
