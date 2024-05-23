@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/javad-ghasemi-b33064245" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Javad Ghasemi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javad-ghasemi-b33064245" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Javad Ghasemi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
